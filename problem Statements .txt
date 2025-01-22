@@ -1,0 +1,39 @@
+Problem statement of the project:
+
+The Biz wants to analyse its meeting and client data to gain insights and make informed 
+decisions. The Biz needs to identify trends, patterns, and potential risks in its financial 
+operations. They also want to explore the possibility of introducing new financial products or 
+services based on their analysis.
+
+The Biz has identified the following questions as important for their analysis:
+
+	1. What is the demographic profile of the clients and how does it vary across districts ?
+
+	2. How the Biz have performed over the years. Give their detailed analysis year & month-wise.
+	
+	3. What are the most common types of clients and how do they differ in terms of usage and profitability?
+	
+	4. Which types of product are most frequently used by the clients and what is the overall profitability of the client need?
+	
+	5. What are the major expenses of the Biz and how can they be reduced to improve profitability?
+	
+	6. What is the client portfolio and how does it vary across different purposes and client segments?
+	
+	7. How can the Biz improve its customer service and satisfaction levels?
+	
+	8. Can the Biz introduce new products or services to attract more customers and increase profitability?
+	
+	9. How are telecallers role in the sales.
+	
+	10. What is BDM's indivisual performance with various segments of client. 
+	
+	11. How many businesses retain with same or different product.
+	
+	12. Which is best selling prodcut and category.
+	
+	13. What is popular selling amount.
+	
+	The objective of this analysis is to provide the Biz with actionable insights that 
+	can help them make informed decisions about their operations. The analysis will 
+	involve data cleaning, exploratory data analysis, and predictive modelling to identify patterns 
+	and trends in the data.
